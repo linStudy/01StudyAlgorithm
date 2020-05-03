@@ -43,3 +43,6 @@ public class QuickSort {
         QKSourt(a,left+1,end);
     }
 }
+
+
+
